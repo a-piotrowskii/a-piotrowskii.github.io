@@ -1,0 +1,7 @@
+{
+  "name": "Police and Fire Station Locations in Canada",
+  "description": "Map showing the locations of police and fire stations in Canada. Density of points can be visualized, and nearest police to fire station (and vice versa) can be determined using the analysis tools. Data can be extracted or printed.",
+  "createdTime": 1607404074336,
+  "lastUpdated": 1607404402807,
+  "creator": "du-amapiotrowsk_mohawkarcgis"
+}
