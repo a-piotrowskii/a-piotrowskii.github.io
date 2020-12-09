@@ -172,7 +172,13 @@
           "relativeTo": "map"
         },
         "placeholderIndex": 1,
-        "id": "_32"
+        "id": "_32",
+        "name": "Search",
+        "label": "Search_2",
+        "version": "2.18",
+        "closeable": true,
+        "uri": "widgets/Search/Widget",
+        "config": "configs/Search/config__32.json"
       },
       {
         "position": {
@@ -180,8 +186,13 @@
           "top": 10,
           "relativeTo": "map"
         },
-        "placeholderIndex": 2,
-        "id": "_33"
+        "placeholderIndex": 1,
+        "id": "_33",
+        "name": "AddData",
+        "version": "2.18",
+        "closeable": true,
+        "uri": "widgets/AddData/Widget",
+        "config": "configs/AddData/config__33.json"
       },
       {
         "position": {
@@ -189,8 +200,13 @@
           "top": 10,
           "relativeTo": "map"
         },
-        "placeholderIndex": 3,
-        "id": "_34"
+        "placeholderIndex": 1,
+        "id": "_34",
+        "name": "Directions",
+        "version": "2.18",
+        "closeable": true,
+        "uri": "widgets/Directions/Widget",
+        "config": "configs/Directions/config__34.json"
       },
       {
         "position": {
@@ -198,7 +214,7 @@
           "top": 10,
           "relativeTo": "map"
         },
-        "placeholderIndex": 4,
+        "placeholderIndex": 1,
         "id": "_35"
       },
       {
@@ -207,7 +223,7 @@
           "top": 10,
           "relativeTo": "map"
         },
-        "placeholderIndex": 5,
+        "placeholderIndex": 2,
         "id": "_36"
       }
     ],
@@ -234,8 +250,8 @@
             "name": "PopupPanel",
             "version": "2.17",
             "uri": "widgets/PopupPanel/Widget",
-            "config": "configs/PopupPanel/config_widgets_PopupPanel_Widget_37.json",
-            "id": "widgets_PopupPanel_Widget_37"
+            "config": "configs/PopupPanel/config_widgets_PopupPanel_Widget_43.json",
+            "id": "widgets_PopupPanel_Widget_43"
           }
         ],
         "placeholderIndex": 1,
